@@ -40,13 +40,13 @@ $ meteor remove insecure
 $ meteor add accounts-password
 $ meteor npm install --save angular2-meteor-accounts-ui
 
-#Add Bootstrap4 and SCSS 
+#Add Bootstrap4 and SCSS
 $ meteor npm install --save bootstrap@4.0.0-alpha.2
 $ meteor add fourseven:scss
 
 ```
 
-## package.json 
+## package.json
 ```
 {
   "name": "meteor_boilerplate",
@@ -85,3 +85,10 @@ Created with the help of [Angular2 and Meteor Tutorial](https://www.angular-mete
 [Current Repo of tutorial](https://github.com/Urigo/meteor-angular2.0-socially)
 
 
+## Install all dependencies
+
+After downloading/cloning the repo just execute
+```
+meteor npm install    #install all dependencies
+meteor                #start app
+```
