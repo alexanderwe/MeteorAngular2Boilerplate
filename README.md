@@ -89,6 +89,6 @@ Created with the help of [Angular2 and Meteor Tutorial](https://www.angular-mete
 
 After downloading/cloning the repo just execute
 ```
-meteor npm install    #install all dependencies
-meteor                #start app
+$ meteor npm install    #install all dependencies
+$ meteor                #start app
 ```
