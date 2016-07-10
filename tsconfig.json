@@ -25,7 +25,8 @@
     "node_modules"
   ],
   "files": [
-    "client/app.ts",
+    "client/app.component.ts",
+    "server/server.ts",
     "typings/globals/es6-shim/index.d.ts",
     "typings/globals/meteor/index.d.ts",
     "typings/index.d.ts",
